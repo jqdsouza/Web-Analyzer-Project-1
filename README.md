@@ -1,7 +1,7 @@
 # Web-Analyzer
 This project was made to take input from a given input file, and compute some basic statistics on the data in the input file.
 
-The attached input file comprises rows. A line of data comprisese three fields. The fields in a line are separated by one or more spaces. A string URI (Universal Resource Identifier), a positive integer size, and a non-negative integer priority.
+The attached input file comprises rows. A line of data comprises three fields. The fields in a line are separated by one or more spaces. A string URI (Universal Resource Identifier), a positive integer size, and a non-negative integer priority.
 
 The basic statistics that are computed include:
 
